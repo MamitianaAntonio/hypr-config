@@ -1,0 +1,22 @@
+# Font
+font-family = "Mononoki Nerd Font"
+font-size = 14
+
+# Cursor
+cursor-style = block
+
+# Window
+window-padding-x = 10
+window-padding-y = 10
+
+# Colors
+theme = Rose Pine
+
+# Selection
+selection-background = #3e4451
+selection-foreground = #abb2bf
+
+# Cursor colors
+cursor-color = #528bff
+cursor-text = #282c34
+
