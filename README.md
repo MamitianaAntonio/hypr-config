@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hyprland.org/logo.svg" width="80" />
+  <img src="http://upload.wikimedia.org/wikipedia/commons/7/7e/Hyprland_logo.png" width="80" />
 </p>
 
 <h1 align="center">hyprland-dots</h1>
